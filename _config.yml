@@ -1,5 +1,5 @@
 title: Talk Academy
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: Um blog voltado para seu desenvolvimento pessoal em oratória e comunicação
 
 baseurl: ""
 paginate_path: "blog/page:num/"
@@ -23,5 +23,17 @@ social:
    twitter: caiom_paladin
    facebook: caio.marques.12382923
    email: talkacademybr@gmail.com
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      author: Caio Moretti
+      category: blogposts
+      comments: true
 
 google_analytics: "UA-58263416-1"

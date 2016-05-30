@@ -19,7 +19,7 @@ A segunda boa notícia é que esse medo pode ser controlado por aplicar passos s
 Concentre-se no Tema Principal da Palestra
 ------------------------------------------
 
-Essa sacada parece ser boba, mas será incondicionalmente necessária para toda boa palestra ou discurso. Falo isso pois, durante o tempo em que você esteja falando, existem diversas coisas que podem te desviar do tema em questão. E o que podem ser? Cito alguns aqui:
+Essa sacada parece ser boba, mas será incondicionalmente necessária para toda boa palestra ou discurso. Falo isso pois, durante o tempo em que você esteja falando, existem diversas coisas que podem te desviar do tema em questão. E o que seriam? Veja alguns exemplos:
 
   * Longas introduções
   * Ilustrações longas e cheias de alegorias
@@ -29,9 +29,9 @@ Essa sacada parece ser boba, mas será incondicionalmente necessária para toda 
 
 Existem ainda outros detalhes e particularidades que serão abordadas em futuros posts, mas essas em especial, se não forem bem aplicadas, podem tirar totalmente o foco daquilo que você está falando.
 
-Seja qual for o tema em que estiver palestrando, saiba que ele será o centro de todo o discurso. Você pode manter esse foco por conhece-lo bem, a ponto de saber e ter total certeza naquilo que esteja falando. Você deve acreditar no tema que está palestrando!
+Seja qual for o tema em que estiver palestrando, saiba que ele será o centro de todo o discurso. Você pode manter esse foco por conhece-lo bem, a ponto de saber e ter total certeza naquilo que esteja falando. *Você deve acreditar no tema que está palestrando*!
 
-Não use artifícios em excesso ou tente enfeitar demais seu discurso. Quanto mais claro e objetivo for, seu público irá te levar a sério em tudo o que falar. As pessoas querem te ouvir! Elas estão profundamente interessadas em sua mensagem e como ela pode mudar suas vidas para melhor. Então seja você mesmo e fale sem rodeios.
+Não use artifícios em excesso ou tente enfeitar demais seu discurso. Quanto mais claro e objetivo você for, seu público irá te levar a sério em tudo o que falar. As pessoas querem te ouvir! Elas estão profundamente interessadas em sua mensagem e como ela pode mudar suas vidas para melhor. Então seja você mesmo e fale sem rodeios.
 
 Mostre interesse pelo público
 -----------------------------

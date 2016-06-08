@@ -1,5 +1,5 @@
 ---
-title: Como Vencer o Medo de Falar em Público
+title: Fuja das Críticas se Quiser ser um Bom Palestrante
 permalink: /pare-fazer-criticas/
 ---
 
